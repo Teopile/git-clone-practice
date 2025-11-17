@@ -1,1 +1,1 @@
-This is the second part of the homework for git.
+This is the second change of the readme file
