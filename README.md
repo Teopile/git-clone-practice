@@ -1,1 +1,1 @@
-This is the second part of the homework.
+# git-clone-practice
